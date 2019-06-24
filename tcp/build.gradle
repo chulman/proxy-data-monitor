@@ -1,0 +1,8 @@
+description 'tcp-proxy'
+
+dependencies {
+
+    compile('io.netty:netty-all:4+')
+    testCompile('junit:junit:4+')
+
+}
